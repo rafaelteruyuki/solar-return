@@ -1,0 +1,9 @@
+{
+  "planets": {
+    "sun": {
+      "sign": "Pisces18º08'21",
+      "house": 8,
+      "aspects": ["CONJUNTION-VENUS", "TRIGON-PLUTO"]
+    }
+  }
+}
