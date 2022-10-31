@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rafaelteruyuki/solar-return/issues"
   },
-  "homepage": "https://github.com/rafaelteruyuki/solar-return#readme"
+  "homepage": "https://github.com/rafaelteruyuki/solar-return#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
